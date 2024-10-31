@@ -1,5 +1,12 @@
 /* Styles for Mobile Site */
-
+body {
+    font-family:'Poppins', sans-serif;
+    color: #2e3159;
+    background-color: #F4F0F7;
+    margin: 0;
+    padding: 0;
+   
+}
 /* Header & Hero */
 
 /* Projects */
