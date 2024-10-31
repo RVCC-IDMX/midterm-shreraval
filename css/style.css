@@ -8,8 +8,53 @@ body {
    
 }
 /* Header & Hero */
+ header {
+    background-color: #d99ab7;
+    text-align:center;
+    padding:20px;
+ }
+ header h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    font-family: 'Playfair Display', serif;
+ }
 
-/* Projects */
+ #hero {
+    background-color: #Bf73ba;
+    padding: 50px;
+    text-align:center;
+ }
+#hero img{
+    width:100%;
+    height: auto;
+    border-radius:8px;
+}
+.hero-text p{
+    font-size: 1.2em;
+}
+
+/* Services */
+#services {
+    background-color: #F4F0F7;
+    padding:20px;
+    text-align: center;
+}
+.services {
+    background-color: #7468b1;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 8px;
+}
+.services img {
+    width:100%;
+    height: auto;
+    border-radius: 8px;
+}
+.services h3 {
+    font-family: 'Playfair Display', serif;
+    margin-top:10px;
+}
+/* Products */
 
 /* Reviews */
 
