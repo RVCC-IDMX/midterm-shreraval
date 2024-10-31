@@ -9,7 +9,7 @@ body {
 }
 /* Header & Hero */
  header {
-    background-color: #d99ab7;
+    background-color: #f5c7dc;
     text-align:center;
     padding:20px;
  }
@@ -55,8 +55,28 @@ body {
     margin-top:10px;
 }
 /* Products */
+#products {
+    background-color: #F4F0F7;
+    padding: 20px;
+    text-align: center;
+}
+.product {
+    background-color: #2e3159;
+    margin:15px;
+    padding: 20px;
+    border-radius:8px;
+}
+.product img {
+      width:100%;
+      height: auto;
+      border-radius: 8px;
+}
+.product h3 { 
+    
+}
 
 /* Reviews */
+
 
 /* Footer */
 
