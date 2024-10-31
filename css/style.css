@@ -34,7 +34,7 @@ body {
 }
 
 /* Services */
-#services {
+#Services {
     background-color: #F4F0F7;
     padding:20px;
     text-align: center;
@@ -55,27 +55,46 @@ body {
     margin-top:10px;
 }
 /* Products */
-#products {
+#Products {
     background-color: #F4F0F7;
     padding: 20px;
     text-align: center;
 }
-.product {
-    background-color: #2e3159;
+.Products {
+    background-color: #abaedb;
     margin:15px;
     padding: 20px;
     border-radius:8px;
 }
-.product img {
+.Products img {
       width:100%;
       height: auto;
       border-radius: 8px;
 }
-.product h3 { 
-    
+.Products h3 {
+    font-family: 'Playfair Display', serif;
+    margin-top: 10px;
 }
 
 /* Reviews */
+#reviews{
+    background-color:#2e3159;
+    padding: 20px;
+    border-radius:8px;
+}
+.review {
+    background-color: #dfd98b;
+    margin:15px;
+    padding: 15px;
+    border-radius:8px;
+}
+.review .name {
+    font-weight:bold;
+}
+.review .title{
+    font-style: italic;
+    font-family:'Playfair Display', serif;
+}
 
 
 /* Footer */
